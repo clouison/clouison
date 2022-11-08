@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I’m @clouison aka Seg_fault_
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clouison&count_private=true&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clouison&layout=compact&count_private=true)
 
 <!--
 **clouison/clouison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
